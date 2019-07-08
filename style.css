@@ -1,0 +1,89 @@
+
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body { background-color: beige ;
+        font-family:Arial, Helvetica, sans-serif;
+}
+
+.FullName {  color:red }
+
+.LastName { color:red}
+
+label {
+color:red
+
+}
+A {
+
+    text-decoration: none;
+    color:green;
+
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color:purple;
+}
+section{
+    background-color: blue;
+    color:green;
+    border-right: 5px red solid;
+    border: 5px gray solid;
+
+}
+
+.categories li{
+padding-bottom: 6px;
+border-bottom:dotted 1px red;
+
+}
+
+#FormButton{
+    color:blue;
+    background-color: white;
+    padding: 10px 15 px 3px;
+    
+}
+
+#Second{
+    color: aqua;
+    Border: 1px gray solid;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+#top {
+    background-color: blue;
+    padding: 20px
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
+
+.block{
+
+    float:left;
+    width: 33.3%;
+    border:1px red;
+    padding: 10px;
+    box-sizing:border-box;
+
+}
+
+#mainblock{
+    float:right;
+    width: 70%;
+    background-color:#333;
+    color: blue;
+    padding:15px;
+    box-sizing:border-box;
+    
+}
